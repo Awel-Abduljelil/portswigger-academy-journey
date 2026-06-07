@@ -1,67 +1,42 @@
-# PortSwigger Web Security Academy Journey
+# PortSwigger Web Security Academy - Solved Labs
 
-A professional cybersecurity learning repository designed to document my PortSwigger Web Security Academy progress from beginner to advanced.
+![Total Labs](https://img.shields.io/badge/Total%20Labs-5-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-09-28-green)
 
-## Purpose
-- Showcase a consistent, professional web security learning journey.
-- Track every PortSwigger topic, lab, and concept.
-- Emphasize reasoning, methodology, and defensive understanding over published solutions.
-- Build a portfolio for internships, freelance work, bug bounty, and remote cybersecurity roles.
+This file tracks my progress through PortSwigger Web Security Academy labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
-## Current Focus
-- Build strong foundations in HTTP, Burp Suite, authentication, access control, and common injection flaws.
-- Practice real-world attack chains and defensive reasoning.
-- Maintain a daily learning cadence and clear evidence of progress.
+## Level progress
 
-## Repository Highlights
-- Modular learning structure for every PortSwigger topic.
-- Professional progress dashboard and skills matrix.
-- Lab writeup and daily learning templates.
-- GitHub-ready issue and PR templates.
-- Badges and portfolio-style documentation.
+- Apprentice: 3
+- Practitioner: 2
+- Expert: 0
 
-## Badges
-![Progress](https://img.shields.io/badge/learning-portswigger-blue)
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![Labs](https://img.shields.io/badge/labs-tracked%20via%20markdown-green)
-![Focus](https://img.shields.io/badge/focus-methodology%20%26%20defense-orange)
+## Categories Covered
 
-## Quick Progress Snapshot
-- Global completion: 0%
-- Labs completed: 0
-- Weekly goal: 2–4 labs
-- Current difficulty focus: Beginner → Intermediate
+- API Testing: 3 lab
+- Information Disclosure: 1 lab
+- Business logic vulnerabilities: 1 lab
 
-## Learning Roadmap
-1. Foundations: HTTP, Burp Suite, authentication, access control.
-2. Injection and abuse chains: SQLi, XSS, CSRF, SSRF, XXE, command injection.
-3. Advanced topics: JWT, OAuth, GraphQL, race conditions, deserialization, CORS, smuggling.
-4. Portfolio refinement: methodology, reporting, bug bounty workflow, and defensive notes.
+## Notes
 
-## Skills Acquired
-- HTTP analysis
-- Burp Suite workflow
-- Authentication and access control testing
-- Common injection testing
-- Defensive reasoning and remediation awareness
+- Full Writeups: Only for significant labs (e.g., chained exploits or scripted solutions).
+- Tools Used: Burp Suite
 
-## Tools Mastered
-- Burp Suite Community / Professional
-- Browser dev tools
-- Linux shell basics
-- Web proxies and request analysis
+## How to Read
 
-## Featured Labs
-- Authentication bypass labs
-- SQL injection labs
-- XSS and CSRF validation
-- SSRF and XXE chain exploration
-- JWT and OAuth flow analysis
+- `No`: Sequential lab number.
+- `Date`: When I solved it (YYYY-MM-DD).
+- `Topic`: Vulnerability category (e.g., API Testing, XSS).
+- `Lab Title`: Exact name from PortSwigger.
+- `Difficulty`: Apprentice, Practitioner, or Expert.
+- `Writeup Link`: Links to full writeup (if exists) or "N/A" for quick solves.
 
-## Learning Philosophy
-I am documenting the process, not the shortcuts: methodology, observation, reasoning, and resilience matter more than quick wins.
+## Solved Labs
 
-## Future Goals
-- Reach consistent weekly completion.
-- Develop a polished portfolio of notes and lab summaries.
-- Strengthen reporting and vulnerability communication skills.
+| No | Date | Topic | Lab Title | Difficulty | Writeup Link |
+| ---: | --- | --- | --- | --- | --- |
+| 1 | 2025-09-26 | API Testing | Exploiting an API endpoint using documentation | Apprentice | N/A |
+| 2 | 2025-09-26 | API Testing | Finding and exploiting an unused API endpoint | Practitioner | N/A |
+| 3 | 2025-09-27 | API Testing | Exploiting a mass assignment vulnerability | Practitioner | N/A |
+| 4 | 2025-09-28 | Information Disclosure | Information disclosure in error messages | Apprentice | N/A |
+| 5 | 2025-09-28 | Business logic vulnerabilities | Excessive trust in client-side controls | Apprentice | N/A |
