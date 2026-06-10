@@ -44,3 +44,4 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 | No | Date    | Topic                 | Lab Title | Difficulty | Writeup Link |
 |----|---------|-----------------------|-----------|------------|--------------|
 | 1  |2025-6-10  | Web cache deception   | WCD       | Medium     | N/A          |
+|  | |   |        |       |       |
