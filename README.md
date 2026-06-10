@@ -10,6 +10,7 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 - **Expert**: 0 of 0
 
 ## Categories Covered
+- **Web cache deception**: 3/3 lab
 - **API Testing**: 0/0 lab
 - **Authentication vulnerabilities**: 0/0 lab
 - **Access control**: 0/0 lab
