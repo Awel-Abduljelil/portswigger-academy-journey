@@ -49,7 +49,7 @@ username=test&password=test
 
 Screenshot:
 
-![Login Request](images/login-request.png)
+![Login Request](image/login-request.png)
 
 ---
 
@@ -59,7 +59,7 @@ From HTTP history, send the POST request to Intruder.
 
 Screenshot:
 
-![Intruder Setup](images/intruder-setup.png)
+![Intruder Setup](image/intruder-setup.png)
 
 ---
 
@@ -79,7 +79,7 @@ Load the candidate username list.
 
 Screenshot:
 
-![Username Payload Setup](images/username-payload.png)
+![Username Payload Setup](image/username-payload.png)
 
 ---
 
@@ -105,7 +105,7 @@ This indicates a valid username.
 
 Screenshot:
 
-![Username Results](images/username-results.png)
+![Username Results](image/username-results.png)
 
 ---
 
@@ -115,17 +115,10 @@ Sort by Length.
 
 The different response length reveals the valid username.
 
-look at
+look at valid username 
 
 ```text id="rdmbhk"
 Username: root
-```
-
-Screenshot:
-
-![Valid Username](images/valid-username.png)
-
----
 
 # Step 6: Setup Password Brute Force
 
@@ -141,7 +134,7 @@ Load the password list.
 
 Screenshot:
 
-![Password Payload Setup](images/password-payload.png)
+![Password Payload Setup](image/password-payload.png)
 
 ---
 
@@ -165,7 +158,7 @@ This means successful authentication.
 
 Screenshot:
 
-![Password Results](images/password-results.png)
+![Password Results](image/password-results.png)
 
 ---
 
@@ -180,19 +173,14 @@ Password: summer
 
 Screenshot:
 
-![Successful Login](images/successful-login.png)
+![Successful Login](image/successful-login.png)
 
 ---
 
 # Step 9: Lab Solved
 
-After login, access the account page.
+After login, access the account page. DONE lab is solved completetly
 
-Screenshot:
-
-![Lab Solved](images/lab-solved.png)
-
----
 
 # Why This Works
 
