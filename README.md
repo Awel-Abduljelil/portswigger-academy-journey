@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%2015-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20Authentication%20vulnerabilities-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2025-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20Authentication%20vulnerabilities-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
