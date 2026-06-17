@@ -5,8 +5,8 @@
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
 ## Level progress
-- **Apprentice**: 22 of 61
-- **Practitioner**: 16 of 174
+- **Apprentice**: 27 of 61
+- **Practitioner**: 25 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -14,7 +14,7 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 - **Server-side request forgery (SSRF)**: 4/5 lab
 - **Clickjacking**: 5/5 lab
 - **API Testing**: 0/0 lab
-- **Authentication vulnerabilities**: 13/55 lab
+- **Authentication vulnerabilities**: 11/11 lab
 - **Access control**: 0/0 lab
 - **SQL injection**: 0/0 lab
 - **Cross-site scripting**: 0/0 lab
@@ -45,4 +45,5 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 |----|---------|-----------------------|-----------|------------|--------------|
 | 1  |2025-6-10  | Web cache deception   |Web cache deception     | PRACTITIONER   | N/A          |
 | 2  | 2025-6-11 |  Server-side request forgery (SSRF) |  SSRF Attacks     |   PRACTITIONER     |N/A|
-| 3 | 2025-6-13 |  Authentication vulnerabilities |  Authentication vulnerabilities     |   PRACTITIONER     |[writeup](https://medium.com/@awela1499/username-enumeration-via-different-responses-portswigger-lab-17dd6255e1bb)|
+| 3  | 2025-6-12 |  Clickjacking Attacks| Clickjacking (UI redressing)     |   PRACTITIONER     |N/A|
+| 4 | 2025-6-13 |  Authentication vulnerabilities |  Authentication vulnerabilities     |   PRACTITIONER     |[writeup](https://medium.com/@awela1499/username-enumeration-via-different-responses-portswigger-lab-17dd6255e1bb)|
