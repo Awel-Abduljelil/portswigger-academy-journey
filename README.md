@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%2034-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20SQL%20injection%20attack%20listing%20the%20database%20contents%20on%20non%20Oracle%20databases-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2033-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20SQL%20injection%20attack%20listing%20the%20database%20contents%20on%20non%20Oracle%20databases-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
