@@ -14,9 +14,9 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 - **Server-side request forgery (SSRF)**: 4/5 lab
 - **Authentication vulnerabilities**: 11/11 lab
 - **Clickjacking**: 5/5 lab
+- - **SQL injection**: 13/19 lab
 - **API Testing**: 0/0 lab
 - **Access control**: 0/0 lab
-- **SQL injection**: 0/0 lab
 - **Cross-site scripting**: 0/0 lab
 - **Server-side template injection**: 0/0 lab
 - **JWT attacks**: 0/0 lab
