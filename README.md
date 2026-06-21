@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%2033-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20SQL%20injection%20attack%20listing%20the%20database%20contents%20on%20non%20Oracle%20databases-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2043-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20Blind%20SQL%20injection%20with%20time%20delays%20and%20information%20retrieval-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
 ## Level progress
 - **Apprentice**: 27 of 61
-- **Practitioner**: 33 of 174
+- **Practitioner**: 36 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -14,9 +14,10 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 - **Server-side request forgery (SSRF)**: 4/5 lab
 - **Authentication vulnerabilities**: 11/11 lab
 - **Clickjacking**: 5/5 lab
-- **SQL injection**: 13/19 lab
+- **SQL injection**: 16/19 lab
+- **Path traversal**: 1/6
+- **Access control**: 4/13 lab
 - **API Testing**: 0/0 lab
-- **Access control**: 0/0 lab
 - **Cross-site scripting**: 0/0 lab
 - **Server-side template injection**: 0/0 lab
 - **JWT attacks**: 0/0 lab
@@ -76,3 +77,13 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 | 31  | 2025-6-16 |SQL injection| SQL injection UNION attack, retrieving multiple values in a single column|PRACTITIONER|N/A|
 | 32  | 2025-6-17 |SQL injection| SQL injection attack, querying the database type and version on MySQL and Microsoft| PRACTITIONER|N/A|
 | 33  | 2025-6-17 |SQL injection| SQL injection attack, listing the database contents on non-Oracle databases|PRACTITIONER|N/A|
+| 34| 2025-6-18 | Server-side vulnerabilities |Web shell upload via Content-Type restriction bypass |APPRENTICE|N/A|
+| 35| 2025-6-19 |Path traversal| File path traversal, simple case | APPRENTICE   |N/A|
+| 36| 2025-6-19 |  Access control |Unprotected admin functionality| APPRENTICE |N/A|
+| 37| 2025-6-19 |  Access control |Unprotected admin functionality with unpredictable URL |APPRENTICE |N/A|
+| 38| 2025-6-19 |  Access control |User role controlled by request parameter |APPRENTICE |N/A|
+| 39| 2025-6-19 |  Access control |User ID controlled by request parameter, with unpredictable user IDs|APPRENTICE |N/A|
+| 40| 2025-6-19|  Access control |User ID controlled by request parameter with password disclosure |APPRENTICE |N/A|
+| 41| 2025-6-20 |SQL injection | Blind SQL injection with conditional errors |PRACTITIONER|N/A|
+| 42| 2025-6-20 |SQL injection |  Visible error-based SQL injection |PRACTITIONER|N/A|
+| 43| 2025-6-20 |SQL injection | Blind SQL injection with time delays and information retrieval |PRACTITIONER|N/A|
