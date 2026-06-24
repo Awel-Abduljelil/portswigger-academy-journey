@@ -101,4 +101,6 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 | 53| 2025-6-24 |     Path traversal| File path traversal, traversal sequences stripped with superfluous URL-decode |PRACTITIONER|N/A|
 | 54| 2025-6-24 |     Path traversal|File path traversal, validation of start of path |PRACTITIONER|N/A|
 | 55| 2025-6-24 |     Path traversal|File path traversal, validation of file extension with null byte bypass|PRACTITIONER|N/A|
+| 56| 2025-6-24 | API testing |Exploiting an API endpoint using documentation|APPRENTICE|N/A|
 
+| 56| 2025-6-24 | API testing |Exploiting an API endpoint using documentation|APPRENTICE|N/A|
