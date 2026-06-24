@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%2050-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20File%20path%20traversal%2e%20validation%20of%20file%20extension%20with%20null%20byte%20bypass-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2050-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20File%20path%20traversal%2C%20validation%20of%20file%20extension%20with%20null%20byte%20bypass-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
 ## Level progress
 - **Apprentice**: 27 of 61
-- **Practitioner**: 36 of 174
+- **Practitioner**: 37 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -15,7 +15,7 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 - **Authentication vulnerabilities**: 11/11 lab
 - **Clickjacking**: 5/5 lab
 - **SQL injection**: 13/15 lab
-- **Path traversal**: 1/6
+- **Path traversal**: 6/6
 - **Access control**: 5/13 lab
 - **File upload vulnerabilities**:6/6 lab
 - **API Testing**: 0/0 lab
