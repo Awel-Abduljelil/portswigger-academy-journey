@@ -4,7 +4,7 @@
 
 ### `awel@astu:~$` tracking every vulnerability, one lab at a time
 
-[![Total Labs](https://img.shields.io/badge/Total%20Labs-62%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
+[![Total Labs](https://img.shields.io/badge/Total%20Labs-64%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
 [![Apprentice](https://img.shields.io/badge/Apprentice-27%2F61-3fb950?style=for-the-badge)](#-level-progress)
 [![Practitioner](https://img.shields.io/badge/Practitioner-37%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
