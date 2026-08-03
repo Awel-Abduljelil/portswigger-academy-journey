@@ -4,11 +4,11 @@
 
 ### `awel@astu:~$` tracking every vulnerability, one lab at a time
 
-[![Total Labs](https://img.shields.io/badge/Total%20Labs-64%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
-[![Apprentice](https://img.shields.io/badge/Apprentice-27%2F61-3fb950?style=for-the-badge)](#-level-progress)
-[![Practitioner](https://img.shields.io/badge/Practitioner-37%2F174-f5a524?style=for-the-badge)](#-level-progress)
+[![Total Labs](https://img.shields.io/badge/Total%20Labs-70%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
+[![Apprentice](https://img.shields.io/badge/Apprentice-36%2F61-3fb950?style=for-the-badge)](#-level-progress)
+[![Practitioner](https://img.shields.io/badge/Practitioner-50%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-Jul%206%202026-0891b2?style=for-the-badge)](#-solved-labs)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%203%202026-0891b2?style=for-the-badge)](#-solved-labs)
 
 **[🌐 Portfolio](https://awel-abduljelil.github.io/My-Portfolio/) · [💻 GitHub](https://github.com/Awel-Abduljelil) · [✍️ Writeups on Medium](https://medium.com/@awela1499) · [📡 Telegram](https://t.me/Awexaa)**
 
@@ -161,6 +161,12 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 62 | 2025-06-27 | Command injection | Blind OS command injection with output redirection | Practitioner | N/A |
 | 63 | 2025-07-01 |   GraphQL API vulnerabilities| Accessing private GraphQL posts | Apprentice | N/A |
 | 64 | 2025-07-06 |   GraphQL API vulnerabilities| Accidental exposure of private GraphQL fields | Practitioner | N/A |
+| 65 | 2025-08-03 |SQL injection | SQL injection attack, querying the database type and version on Oracle| Practitioner | N/A |
+| 66 | 2025-08-03 |  Information disclosure | Information disclosure vulnerabilities| Apprentice | N/A |
+| 67 | 2025-08-03 |  Information disclosure | Source code disclosure via backup files| Apprentice | N/A |
+| 68 | 2025-08-03 |  Information disclosure | Information disclosure on debug page| Apprentice | N/A |
+| 69 | 2025-08-03 |  Information disclosure | Authentication bypass via information disclosure| Apprentice | N/A |
+| 70 | 2025-08-03 |  Information disclosure | information disclosure in version control history | Practitioner | N/A |
 
 </details>
 
