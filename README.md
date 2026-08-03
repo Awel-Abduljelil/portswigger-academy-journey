@@ -46,7 +46,8 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | Clickjacking (UI redressing) | 5 / 5 | ✅ Complete |
 | File upload vulnerabilities | 6 / 6 | ✅ Complete |
 | Path traversal | 6 / 6 | ✅ Complete |
-| SQL injection | 13 / 15 | 🟡 In progress |
+| Information disclosure| 5 / 5 | ✅ Complete |
+| SQL injection | 14 / 15 | 🟡 In progress |
 | API testing | 4 / 5 | 🟡 In progress |
 | Command injection | 3 / 5 | 🟡 In progress |
 | Access control | 5 / 13 | 🟡 In progress |
