@@ -2,7 +2,7 @@
 
 # 🛡️ PortSwigger Web Security Academy — Lab Journey
 
-### `awel@astu:~$` tracking every vulnerability, one lab at a time
+### `awel@astu:~$` tracking every vulnerability, one lab at a time 
 
 [![Total Labs](https://img.shields.io/badge/Total%20Labs-70%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
 [![Apprentice](https://img.shields.io/badge/Apprentice-36%2F61-3fb950?style=for-the-badge)](#-level-progress)
