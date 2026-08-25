@@ -4,8 +4,8 @@
 
 ### `awel@astu:~$` tracking every vulnerability, one lab at a time 
 
-[![Total Labs](https://img.shields.io/badge/Total%20Labs-81%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
-[![Apprentice](https://img.shields.io/badge/Apprentice-36%2F61-3fb950?style=for-the-badge)](#-level-progress)
+[![Total Labs](https://img.shields.io/badge/Total%20Labs-79%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
+[![Apprentice](https://img.shields.io/badge/Apprentice-34%2F61-3fb950?style=for-the-badge)](#-level-progress)
 [![Practitioner](https://img.shields.io/badge/Practitioner-51%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%208%202026-0891b2?style=for-the-badge)](#-solved-labs)
@@ -30,8 +30,8 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 
 | Rank | Progress | Completion |
 |---|---|---|
-| 🟢 **Apprentice** | `███████████░░░░░░░░░░░░░` | **36 / 61** |
-| 🟡 **Practitioner** | `████░░░░░░░░░░░░░░░░░░░░` | **52 / 174** |
+| 🟢 **Apprentice** | `███████████████░░░░░░░░░░░` | **36 / 61** |
+| 🟡 **Practitioner** | `████████░░░░░░░░░░░░░░░░░░░░` | **52 / 174** |
 | 🔴 **Expert** | `░░░░░░░░░░░░░░░░░░░░░░░░` | **0 / 39** |
 
 ---
@@ -172,12 +172,10 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 73 | 2026-08-04 | CSRF | CSRF where token validation depends on token being present  | Practitioner | N/A |
 | 74 | 2026-08-05 | CSRF | CSRF where token is not tied to user session PRACTITIONER | Practitioner | N/A |
 | 75 | 2026-08-06 |   WebSockets vulnerabilities |Manipulating WebSocket messages to exploit vulnerabilities| APPRENTICE  | N/A |
-| 76 | 2026-08-06 |   SSRF |Basic SSRF against the local server| APPRENTICE  | N/A |
-| 77 | 2026-08-07 |   SSRF |Basic SSRF against another back-end system | APPRENTICE  | N/A |
-| 78 | 2026-08-07 |   GraphQL API vulnerabilities |Accessing private GraphQL posts | APPRENTICE  | N/A |
-| 79 | 2026-08-07 |   GraphQL API vulnerabilities |Accidental exposure of private GraphQL fields | PRACTITIONER  | N/A |
-| 80 | 2026-08-08 |   GraphQL API vulnerabilities |Finding a hidden GraphQL endpoint| PRACTITIONER  | N/A |
-| 81 | 2026-08-08 |   GraphQL API vulnerabilities |Bypassing GraphQL brute force protections  | PRACTITIONER  | N/A |
+| 76 | 2026-08-07 |   GraphQL API vulnerabilities |Accessing private GraphQL posts | APPRENTICE  | N/A |
+| 77 | 2026-08-07 |   GraphQL API vulnerabilities |Accidental exposure of private GraphQL fields | PRACTITIONER  | N/A |
+| 78 | 2026-08-08 |   GraphQL API vulnerabilities |Finding a hidden GraphQL endpoint| PRACTITIONER  | N/A |
+| 79 | 2026-08-08 |   GraphQL API vulnerabilities |Bypassing GraphQL brute force protections  | PRACTITIONER  | N/A |
 
 
 
