@@ -4,9 +4,9 @@
 
 ### `awel@astu:~$` tracking every vulnerability, one lab at a time 
 
-[![Total Labs](https://img.shields.io/badge/Total%20Labs-80%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
+[![Total Labs](https://img.shields.io/badge/Total%20Labs-81%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
 [![Apprentice](https://img.shields.io/badge/Apprentice-34%2F61-3fb950?style=for-the-badge)](#-level-progress)
-[![Practitioner](https://img.shields.io/badge/Practitioner-52%2F174-f5a524?style=for-the-badge)](#-level-progress)
+[![Practitioner](https://img.shields.io/badge/Practitioner-53%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-Sept%210%202026-0891b2?style=for-the-badge)](#-solved-labs)
 
@@ -48,11 +48,12 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | Path traversal | 6 / 6 | ✅ Complete |
 | Information disclosure| 5 / 5 | ✅ Complete |
 | SQL injection | 14 / 15 | 🟡 In progress |
+| CSRF | 6 / 15 | 🟡 In progress |
 | API testing | 4 / 5 | 🟡 In progress |
 | Command injection | 3 / 5 | 🟡 In progress |
 | Access control | 5 / 13 | 🟡 In progress |
 | WebSockets vulnerabilities | 1 / 13 | 🟡 In progress |
-| GraphQL API vulnerabilities | 5 / 9 | 🟡 In progress  |
+| GraphQL API vulnerabilities | 4 / 9 | 🟡 In progress  |
 | Cross-site scripting (XSS) | 0 / 0 | ⬜ Not started |
 | Server-side template injection (SSTI) | 2 / 15 | ⬜ Not started |
 | JWT attacks | 0 / 0 | ⬜ Not started |
@@ -176,7 +177,8 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 77 | 2026-08-07 |   GraphQL API vulnerabilities |Accidental exposure of private GraphQL fields | PRACTITIONER  | N/A |
 | 78 | 2026-08-08 |   GraphQL API vulnerabilities |Finding a hidden GraphQL endpoint| PRACTITIONER  | N/A |
 | 79 | 2026-08-08 |   GraphQL API vulnerabilities |Bypassing GraphQL brute force protections  | PRACTITIONER  | N/A |
-| 80 | 2026-09-10 |   GraphQL API vulnerabilities | CSRF where token is tied to non-session cookie  | PRACTITIONER  | N/A |
+| 80 | 2026-09-10 |   CSRF | CSRF where token is tied to non-session cookie  | PRACTITIONER  | N/A |
+| 81 | 2026-09-10 |   CSRF | CSRF where token is duplicated in cookie | PRACTITIONER  | N/A |
 
 
 
