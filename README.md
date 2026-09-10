@@ -4,11 +4,11 @@
 
 ### `awel@astu:~$` tracking every vulnerability, one lab at a time 
 
-[![Total Labs](https://img.shields.io/badge/Total%20Labs-79%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
+[![Total Labs](https://img.shields.io/badge/Total%20Labs-80%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
 [![Apprentice](https://img.shields.io/badge/Apprentice-34%2F61-3fb950?style=for-the-badge)](#-level-progress)
-[![Practitioner](https://img.shields.io/badge/Practitioner-51%2F174-f5a524?style=for-the-badge)](#-level-progress)
+[![Practitioner](https://img.shields.io/badge/Practitioner-52%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%208%202026-0891b2?style=for-the-badge)](#-solved-labs)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Sept%210%202026-0891b2?style=for-the-badge)](#-solved-labs)
 
 **[🌐 Portfolio](https://awel-abduljelil.github.io/My-Portfolio/) · [💻 GitHub](https://github.com/Awel-Abduljelil) · [✍️ Writeups on Medium](https://medium.com/@awela1499) · [📡 Telegram](https://t.me/Awexaa)**
 
@@ -52,7 +52,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | Command injection | 3 / 5 | 🟡 In progress |
 | Access control | 5 / 13 | 🟡 In progress |
 | WebSockets vulnerabilities | 1 / 13 | 🟡 In progress |
-| GraphQL API vulnerabilities | 4 / 9 | 🟡 In progress  |
+| GraphQL API vulnerabilities | 5 / 9 | 🟡 In progress  |
 | Cross-site scripting (XSS) | 0 / 0 | ⬜ Not started |
 | Server-side template injection (SSTI) | 2 / 15 | ⬜ Not started |
 | JWT attacks | 0 / 0 | ⬜ Not started |
@@ -176,13 +176,13 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 77 | 2026-08-07 |   GraphQL API vulnerabilities |Accidental exposure of private GraphQL fields | PRACTITIONER  | N/A |
 | 78 | 2026-08-08 |   GraphQL API vulnerabilities |Finding a hidden GraphQL endpoint| PRACTITIONER  | N/A |
 | 79 | 2026-08-08 |   GraphQL API vulnerabilities |Bypassing GraphQL brute force protections  | PRACTITIONER  | N/A |
-
+| 80 | 2026-09-10 |   GraphQL API vulnerabilities | CSRF where token is tied to non-session cookie  | PRACTITIONER  | N/A |
 
 
 
 ## `//` what's next
 
-- [ ] Finish remaining **Access control** labs (8 left)
+- [ ] Finish remaining **CSRF** labs (8 left)
 - [ ] Start **Cross-site scripting (XSS)** track
 - [ ] Start **JWT attacks** track
 - [ ] Push toward first **Expert**-level lab
