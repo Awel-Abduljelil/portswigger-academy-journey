@@ -4,11 +4,11 @@
 
 ### `awel@astu:~$` tracking every vulnerability, one lab at a time 
 
-[![Total Labs](https://img.shields.io/badge/Total%20Labs-86%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
+[![Total Labs](https://img.shields.io/badge/Total%20Labs-89%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
 [![Apprentice](https://img.shields.io/badge/Apprentice-37%2F61-3fb950?style=for-the-badge)](#-level-progress)
-[![Practitioner](https://img.shields.io/badge/Practitioner-58%2F174-f5a524?style=for-the-badge)](#-level-progress)
+[![Practitioner](https://img.shields.io/badge/Practitioner-63%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-Sept%210%202026-0891b2?style=for-the-badge)](#-solved-labs)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Sept%214%202026-0891b2?style=for-the-badge)](#-solved-labs)
 
 **[🌐 Portfolio](https://awel-abduljelil.github.io/My-Portfolio/) · [💻 GitHub](https://github.com/Awel-Abduljelil) · [✍️ Writeups on Medium](https://medium.com/@awela1499) · [📡 Telegram](https://t.me/Awexaa)**
 
@@ -30,8 +30,8 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 
 | Rank | Progress | Completion |
 |---|---|---|
-| 🟢 **Apprentice** | `███████████████░░░░░░░░░░░` | **36 / 61** |
-| 🟡 **Practitioner** | `████████░░░░░░░░░░░░░░░░░░░░` | **52 / 174** |
+| 🟢 **Apprentice** | `███████████████░░░░░░░░░░░` | **37 / 61** |
+| 🟡 **Practitioner** | `████████░░░░░░░░░░░░░░░░░░░░` | **83 / 174** |
 | 🔴 **Expert** | `░░░░░░░░░░░░░░░░░░░░░░░░` | **0 / 39** |
 
 ---
@@ -48,8 +48,8 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | Path traversal | 6 / 6 | ✅ Complete |
 | Information disclosure| 5 / 5 | ✅ Complete |
 | WebSockets vulnerabilities | 3 / 3 | ✅ Complete|
-| SQL injection | 14 / 15 | 🟡 In progress |
-| CSRF | 7 / 15 | 🟡 In progress |
+| CSRF | 11 / 11 | ✅ Complete |
+| SQL injection | 18 / 18 | ✅ Complete|
 | API testing | 4 / 5 | 🟡 In progress |
 | Command injection | 3 / 5 | 🟡 In progress |
 | Access control | 5 / 13 | 🟡 In progress |
@@ -168,7 +168,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 68 | 2026-08-03 |  Information disclosure | Information disclosure on debug page| Apprentice | N/A |
 | 69 | 2026-08-03 |  Information disclosure | Authentication bypass via information disclosure| Apprentice | N/A |
 | 70 | 2026-08-03 |  Information disclosure | information disclosure in version control history | Practitioner | N/A |
-| 71 | 2026-08-04 | CSRF |  CSRF vulnerability with no defenses | Practitioner | N/A |
+| 71 | 2026-08-04 | CSRF |  CSRF vulnerability with no defenses | Apprentice | N/A |
 | 72 | 2026-08-04 | CSRF |  CSRF where token validation depends on request method | Practitioner | N/A |
 | 73 | 2026-08-04 | CSRF | CSRF where token validation depends on token being present  | Practitioner | N/A |
 | 74 | 2026-08-05 | CSRF | CSRF where token is not tied to user session PRACTITIONER | Practitioner | N/A |
@@ -184,11 +184,15 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 84 | 2026-09-13 | WebSockets vulnerabilities |Manipulating WebSocket messages to exploit vulnerabilities | APPRENTICE  | N/A |
 | 85 | 2026-09-13 | WebSockets vulnerabilities |Manipulating the WebSocket handshake to exploit vulnerabilities| PRACTITIONER  | N/A |
 | 86 | 2026-09-13 | WebSockets vulnerabilities | Cross-site WebSocket hijacking | PRACTITIONER  | N/A |
+| 87 | 2026-09-13 |   CSRF |SameSite Strict bypass via sibling domain| PRACTITIONER  | N/A |
+| 88 | 2026-09-13 |   CSRF |CSRF where Referer validation depends on header being present | PRACTITIONER  | N/A |
+| 89 | 2026-09-13 |   CSRF |CSRF with broken Referer validation | PRACTITIONER  | N/A |
+
 
 ## `//` what's next
 
-- [ ] Finish remaining **CSRF** labs (8 left)
-- [ ] Start **Cross-site scripting (XSS)** track
+- [ ] Finish remaining **Cross-site scripting(XSS)** labs (29 left)
+- [ ] Start **DOM-based vulnerabilities** track
 - [ ] Start **JWT attacks** track
 - [ ] Push toward first **Expert**-level lab
 
