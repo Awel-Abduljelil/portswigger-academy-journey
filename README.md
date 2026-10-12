@@ -10,7 +10,7 @@
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-Sept%214%202026-0891b2?style=for-the-badge)](#-solved-labs)
 
-**[🌐 Portfolio](https://awel-abduljelil.github.io/My-Portfolio/) · [💻 GitHub](https://github.com/Awel-Abduljelil) · [✍️ Writeups on Medium](https://medium.com/@awela1499) · [📡 Telegram](https://t.me/Awexaa)**
+**[🌐 Portfolio](https://awel-abduljelil.netlify.app/) · [💻 GitHub](https://github.com/Awel-Abduljelil) · [✍️ Writeups on Medium](https://medium.com/@awela1499) · [📡 Telegram](https://t.me/Awexaa)**
 
 </div>
 
@@ -50,7 +50,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | WebSockets vulnerabilities | 3 / 3 | ✅ Complete|
 | CSRF | 11 / 11 | ✅ Complete |
 | SQL injection | 18 / 18 | ✅ Complete|
-| CORS | 1 / 1 | ✅ Complete|
+| CORS | 2 / 1 | ✅ Complete|
 | API testing | 4 / 5 | 🟡 In progress |
 | Command injection | 3 / 5 | 🟡 In progress |
 | Access control | 5 / 13 | 🟡 In progress |
@@ -205,7 +205,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=firefox&logoColor=white)](https://awel-abduljelil.github.io/My-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=firefox&logoColor=white)](https://awel-abduljelil.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Awel-Abduljelil)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Awexaa)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/Aweljelil49555)
