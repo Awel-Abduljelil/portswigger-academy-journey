@@ -4,9 +4,9 @@
 
 ### `awel@astu:~$` tracking every vulnerability, one lab at a time 
 
-[![Total Labs](https://img.shields.io/badge/Total%20Labs-91%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
+[![Total Labs](https://img.shields.io/badge/Total%20Labs-92%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
 [![Apprentice](https://img.shields.io/badge/Apprentice-39%2F61-3fb950?style=for-the-badge)](#-level-progress)
-[![Practitioner](https://img.shields.io/badge/Practitioner-63%2F174-f5a524?style=for-the-badge)](#-level-progress)
+[![Practitioner](https://img.shields.io/badge/Practitioner-64%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-Sept%214%202026-0891b2?style=for-the-badge)](#-solved-labs)
 
@@ -190,12 +190,13 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 89 | 2026-09-13 |   CSRF |CSRF with broken Referer validation | PRACTITIONER  | N/A |
 | 90 | 2026-10-12 | CORS |CORS vulnerability with basic origin reflection | APPRENTICE  | N/A |
 | 91 | 2026-10-12 | CORS |CORS vulnerability with trusted null origin | APPRENTICE  | N/A |
+| 92 | 2026-10-12 | CORS |CORS vulnerability with trusted insecure protocols | PRACTITIONER  | N/A |
 
-
+ 
 ## `//` what's next
 
-- [ ] Finish remaining **Cross-site scripting(XSS)** labs (29 left)
-- [ ] Start **DOM-based vulnerabilities** track
+- [ ] Finish remaining **Server-side request forgery (SSRF)** labs (29 left)
+- [ ] Start **Race conditions** track 
 - [ ] Start **JWT attacks** track
 - [ ] Push toward first **Expert**-level lab
 
