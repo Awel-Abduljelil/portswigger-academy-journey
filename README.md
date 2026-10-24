@@ -4,7 +4,7 @@
 
 ### `awel@astu:~$` tracking every vulnerability, one lab at a time 
 
-[![Total Labs](https://img.shields.io/badge/Total%20Labs-97%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
+[![Total Labs](https://img.shields.io/badge/Total%20Labs-99%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
 [![Apprentice](https://img.shields.io/badge/Apprentice-40%2F61-3fb950?style=for-the-badge)](#-level-progress)
 [![Practitioner](https://img.shields.io/badge/Practitioner-68%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
@@ -53,7 +53,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | Race conditions | 5 / 5 | ✅ Complete|
 | CORS | 2 / 1 | ✅ Complete|
 | API testing | 4 / 5 | 🟡 In progress |
-| Command injection | 3 / 5 | 🟡 In progress |
+| OS Command injection | 5 / 5 |✅ Complete |
 | Access control | 5 / 13 | 🟡 In progress |
 | GraphQL API vulnerabilities | 4 / 9 | 🟡 In progress  |
 | Cross-site scripting (XSS) | 0 / 0 | ⬜ Not started |
@@ -159,9 +159,9 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 57 | 2026-06-25 |   API testing | Finding and exploiting an unused API endpoint | Practitioner | N/A |
 | 58 | 2026-06-26 |   API testing | Exploiting a mass assignment vulnerability | Practitioner | N/A |
 | 59 | 2026-06-26 |   API testing | Exploiting server-side parameter pollution in a query string | Practitioner | N/A |
-| 60 | 2026-06-27 | Command injection | OS command injection, simple case | Apprentice | N/A |
-| 61 | 2026-06-27 | Command injection | Blind OS command injection with time delays | Practitioner | N/A |
-| 62 | 2026-06-27 | Command injection | Blind OS command injection with output redirection | Practitioner | N/A |
+| 60 | 2026-06-27 | OS Command injection | OS command injection, simple case | Apprentice | N/A |
+| 61 | 2026-06-27 | OS Command injection | Blind OS command injection with time delays | Practitioner | N/A |
+| 62 | 2026-06-27 | OS Command injection | Blind OS command injection with output redirection | Practitioner | N/A |
 | 63 | 2026-07-01 |   GraphQL API vulnerabilities| Accessing private GraphQL posts | Apprentice | N/A |
 | 64 | 2026-07-06 |   GraphQL API vulnerabilities| Accidental exposure of private GraphQL fields | Practitioner | N/A |
 | 65 | 2026-08-03 |SQL injection | SQL injection attack, querying the database type and version on Oracle| Practitioner | N/A |
@@ -196,13 +196,15 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 94 | 2026-10-24 |   Race Condition |Bypassing rate limits via race conditions |  PRACTITIONER  | N/A |
 | 95 | 2026-10-24 |   Race Condition |Multi-endpoint race conditions |  PRACTITIONER  | N/A |
 | 96 | 2026-10-24 |   Race Condition |Single-endpoint race conditions |  PRACTITIONER  | N/A |
-| 97 | 2026-10-26 |   Race Condition |Exploiting time-sensitive vulnerabilities |  PRACTITIONER  | N/A |
+| 97 | 2026-10-25 |   Race Condition |Exploiting time-sensitive vulnerabilities |  PRACTITIONER  | N/A |
+| 98 | 2026-10-25 | OS Command injection |Blind OS command injection with out-of-band interaction | Practitioner | N/A |
+| 99 | 2026-10-25 | OS Command injection |Blind OS command injection with out-of-band data exfiltration | Practitioner | N/A |
 
- 
+
 ## `//` what's next
 
-- [ ] Finish remaining **OS command injection** labs (29 left)
-- [ ] Start **Web LLM attacks** track 
+- [ ] Finish remaining **Web LLM attacks** labs (29 left)
+- [ ] Start **Server-side template injection** track 
 - [ ] Start **JWT attacks** track
 - [ ] Push toward first **Expert**-level lab
 
