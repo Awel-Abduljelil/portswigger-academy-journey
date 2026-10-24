@@ -4,9 +4,9 @@
 
 ### `awel@astu:~$` tracking every vulnerability, one lab at a time 
 
-[![Total Labs](https://img.shields.io/badge/Total%20Labs-92%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
-[![Apprentice](https://img.shields.io/badge/Apprentice-39%2F61-3fb950?style=for-the-badge)](#-level-progress)
-[![Practitioner](https://img.shields.io/badge/Practitioner-64%2F174-f5a524?style=for-the-badge)](#-level-progress)
+[![Total Labs](https://img.shields.io/badge/Total%20Labs-97%20solved-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=white)](#-solved-labs)
+[![Apprentice](https://img.shields.io/badge/Apprentice-40%2F61-3fb950?style=for-the-badge)](#-level-progress)
+[![Practitioner](https://img.shields.io/badge/Practitioner-68%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-0%2F39-f85149?style=for-the-badge)](#-level-progress)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-Sept%214%202026-0891b2?style=for-the-badge)](#-solved-labs)
 
@@ -50,6 +50,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | WebSockets vulnerabilities | 3 / 3 | ✅ Complete|
 | CSRF | 11 / 11 | ✅ Complete |
 | SQL injection | 18 / 18 | ✅ Complete|
+| Race conditions | 5 / 5 | ✅ Complete|
 | CORS | 2 / 1 | ✅ Complete|
 | API testing | 4 / 5 | 🟡 In progress |
 | Command injection | 3 / 5 | 🟡 In progress |
@@ -191,6 +192,11 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 90 | 2026-10-12 | CORS |CORS vulnerability with basic origin reflection | APPRENTICE  | N/A |
 | 91 | 2026-10-12 | CORS |CORS vulnerability with trusted null origin | APPRENTICE  | N/A |
 | 92 | 2026-10-12 | CORS |CORS vulnerability with trusted insecure protocols | PRACTITIONER  | N/A |
+| 93 | 2026-10-24 |   Race Condition |Limit overrun race conditions |  APPRENTICE  | N/A |
+| 94 | 2026-10-24 |   Race Condition |Bypassing rate limits via race conditions |  PRACTITIONER  | N/A |
+| 95 | 2026-10-24 |   Race Condition |Multi-endpoint race conditions |  PRACTITIONER  | N/A |
+| 96 | 2026-10-24 |   Race Condition |Single-endpoint race conditions |  PRACTITIONER  | N/A |
+| 97 | 2026-10-26 |   Race Condition |Exploiting time-sensitive vulnerabilities |  PRACTITIONER  | N/A |
 
  
 ## `//` what's next
