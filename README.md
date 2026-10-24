@@ -201,8 +201,8 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
  
 ## `//` what's next
 
-- [ ] Finish remaining **Server-side request forgery (SSRF)** labs (29 left)
-- [ ] Start **Race conditions** track 
+- [ ] Finish remaining **OS command injection** labs (29 left)
+- [ ] Start **Web LLM attacks** track 
 - [ ] Start **JWT attacks** track
 - [ ] Push toward first **Expert**-level lab
 
