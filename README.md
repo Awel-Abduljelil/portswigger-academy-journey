@@ -30,9 +30,9 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 
 | Rank | Progress | Completion |
 |---|---|---|
-| 🟢 **Apprentice** | `███████████████░░░░░░░░░░░` | **37 / 61** |
-| 🟡 **Practitioner** | `████████░░░░░░░░░░░░░░░░░░░░` | **83 / 174** |
-| 🔴 **Expert** | `░░░░░░░░░░░░░░░░░░░░░░░░` | **0 / 39** |
+| 🟢 **Apprentice** | `██████████████████░░░░░░░` | **48 / 61** |
+| 🟡 **Practitioner** | `███████████████░░░░░░░░░░` | **91 / 174** |
+| 🔴 **Expert** | `███░░░░░░░░░░░░░░░░░░░░░░` | **7 / 39** |
 
 ---
 
