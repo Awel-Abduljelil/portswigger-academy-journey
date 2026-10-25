@@ -8,7 +8,7 @@
 [![Apprentice](https://img.shields.io/badge/Apprentice-48%2F61-3fb950?style=for-the-badge)](#-level-progress)
 [![Practitioner](https://img.shields.io/badge/Practitioner-68%2F174-f5a524?style=for-the-badge)](#-level-progress)
 [![Expert](https://img.shields.io/badge/Expert-7%2F39-f85149?style=for-the-badge)](#-level-progress)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-Sept%214%202026-0891b2?style=for-the-badge)](#-solved-labs)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Oct%2126%202026-0891b2?style=for-the-badge)](#-solved-labs)
 
 **[🌐 Portfolio](https://awel-abduljelil.netlify.app/) · [💻 GitHub](https://github.com/Awel-Abduljelil) · [✍️ Writeups on Medium](https://medium.com/@awela1499) · [📡 Telegram](https://t.me/Awexaa)**
 
