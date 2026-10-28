@@ -39,7 +39,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.netlify.
 ## `//` categories covered
 
 | Category | Solved / Total | Status |
-|---|---:|---|
+|---|---|---|
 | SQL injection | 18 / 18 | ✅ Complete |
 | Cross-site scripting (XSS) | 18 / 18 | ✅ Complete |
 | Cross-site request forgery (CSRF) | 11 / 11 | ✅ Complete |
@@ -52,19 +52,9 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.netlify.
 | OS command injection | 5 / 5 | ✅ Complete |
 | Server-side template injection | 0 / 6 | ⬜ Not started |
 | Path traversal | 6 / 6 | ✅ Complete |
-
-
-
-
 | Access control vulnerabilities | 5 / 7 | 🟡 In progress |
 | Authentication | 12 / 13 | 🟡 In progress |
 | WebSockets | 3 / 3 | ✅ Complete |
-
-
-
-
-
-
 | Web cache poisoning | 0 / 13 | ⬜ Not started |
 | Insecure deserialization | 0 / 10 | ⬜ Not started |
 | Information disclosure | 5 / 5 | ✅ Complete |
