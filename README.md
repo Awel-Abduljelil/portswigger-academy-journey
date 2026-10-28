@@ -206,6 +206,49 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 104 | 2026-10-28 | Access control | Method-based access control can be circumvented | Practitioner | N/A |
 | 105 | 2026-10-28 | Authentication | Username enumeration via account lock | Practitioner | N/A |
 | 106 | 2026-10-28 | Authentication | Broken brute-force protection, multiple credentials per request | Expert | N/A |
+| 107 | 2026-10-28 | HTTP Host header attacks | Basic password reset poisoning | Apprentice | N/A |
+| 108 | 2026-10-28 | Business logic vulnerabilities | Excessive trust in client-side controls | Apprentice | N/A |
+| 109 | 2026-10-28 | Business logic vulnerabilities | High-level logic vulnerability | Apprentice | N/A |
+| 110 | 2026-10-28 | Server-side template injection | Basic server-side template injection | Practitioner | N/A |
+| 111 | 2026-10-28 | DOM-based vulnerabilities | DOM XSS using web messages | Practitioner | N/A |
+| 112 | 2026-10-28 | DOM-based vulnerabilities | DOM XSS using web messages and a JavaScript URL | Practitioner | N/A |
+| 113 | 2026-10-28 | DOM-based vulnerabilities | DOM XSS using web messages and JSON.parse | Practitioner | N/A |
+| 114 | 2026-10-28 | DOM-based vulnerabilities | DOM-based open redirection | Practitioner | N/A |
+| 115 | 2026-10-28 | DOM-based vulnerabilities | DOM-based cookie manipulation | Practitioner | N/A |
+| 116 | 2026-10-28 | DOM-based vulnerabilities | Exploiting DOM clobbering to enable XSS | Expert | N/A |
+| 117 | 2026-10-28 | DOM-based vulnerabilities | Clobbering DOM attributes to bypass HTML filters | Expert | N/A |
+| 118 | 2026-10-28 | Cross-site scripting | Reflected XSS into HTML context with nothing encoded | Apprentice | N/A |
+| 119 | 2026-10-28 | Cross-site scripting | Stored XSS into HTML context with nothing encoded | Apprentice | N/A |
+| 120 | 2026-10-28 | Cross-site scripting | DOM XSS in document.write sink using source location.search | Apprentice | N/A |
+| 121 | 2026-10-28 | Cross-site scripting | DOM XSS in innerHTML sink using source location.search | Apprentice | N/A |
+| 122 | 2026-10-28 | Cross-site scripting | DOM XSS in jQuery anchor href attribute sink using location.search source | Apprentice | N/A |
+| 123 | 2026-10-28 | Cross-site scripting | DOM XSS in jQuery selector sink using a hashchange event | Apprentice | N/A |
+| 124 | 2026-10-28 | Cross-site scripting | Reflected XSS into attribute with angle brackets HTML-encoded | Apprentice | N/A |
+| 125 | 2026-10-28 | Cross-site scripting | Stored XSS into anchor href attribute with double quotes HTML-encoded | Apprentice | N/A |
+| 126 | 2026-10-28 | Cross-site scripting | Reflected XSS into a JavaScript string with angle brackets HTML encoded | Apprentice | N/A |
+| 127 | 2026-10-28 | Cross-site scripting | DOM XSS in document.write sink using source location.search inside a select element | Practitioner | N/A |
+| 128 | 2026-10-28 | Cross-site scripting | DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Practitioner | N/A |
+| 129 | 2026-10-28 | Cross-site scripting | Reflected DOM XSS | Practitioner | N/A |
+| 130 | 2026-10-28 | Cross-site scripting | Stored DOM XSS | Practitioner | N/A |
+| 131 | 2026-10-28 | Cross-site scripting | Reflected XSS into HTML context with most tags and attributes blocked | Practitioner | N/A |
+| 132 | 2026-10-28 | Cross-site scripting | Reflected XSS into HTML context with all tags blocked except custom ones | Practitioner | N/A |
+| 133 | 2026-10-28 | Cross-site scripting | Reflected XSS with some SVG markup allowed | Practitioner | N/A |
+| 134 | 2026-10-28 | Cross-site scripting | Reflected XSS in canonical link tag | Practitioner | N/A |
+| 135 | 2026-10-28 | Cross-site scripting | Reflected XSS into a JavaScript string with single quote and backslash escaped | Practitioner | N/A |
+| 136 | 2026-10-28 | Cross-site scripting | Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | Practitioner | N/A |
+| 137 | 2026-10-28 | Cross-site scripting | Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped | Practitioner | N/A |
+| 138 | 2026-10-28 | Cross-site scripting | Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped | Practitioner | N/A |
+| 139 | 2026-10-28 | Cross-site scripting | Exploiting cross-site scripting to steal cookies | Practitioner | N/A |
+| 140 | 2026-10-28 | Cross-site scripting | Exploiting cross-site scripting to capture passwords | Practitioner | N/A |
+| 141 | 2026-10-28 | Cross-site scripting | Exploiting XSS to bypass CSRF defenses | Practitioner | N/A |
+| 142 | 2026-10-28 | Cross-site scripting | Reflected XSS with AngularJS sandbox escape without strings | Expert | N/A |
+| 143 | 2026-10-28 | Cross-site scripting | Reflected XSS with AngularJS sandbox escape and CSP | Expert | N/A |
+| 144 | 2026-10-28 | Cross-site scripting | Reflected XSS with event handlers and href attributes blocked | Expert | N/A |
+| 145 | 2026-10-28 | Cross-site scripting | Reflected XSS in a JavaScript URL with some characters blocked | Expert | N/A |
+| 146 | 2026-10-28 | Cross-site scripting | Reflected XSS protected by very strict CSP, with dangling markup attack | Practitioner | N/A |
+| 147 | 2026-10-28 | Cross-site scripting | Reflected XSS protected by CSP, with CSP bypass | Expert | N/A |
+| 148 | 2026-10-28 | SQL injection | SQL injection attack, querying the database type and version on MySQL and Microsoft | Practitioner | N/A |
+| 149 | 2026-10-28 | SQL injection | SQL injection attack, listing the database contents on Oracle | Practitioner | N/A |
 
 ## `//` what's next
 
