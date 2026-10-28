@@ -10,7 +10,7 @@
 [![Expert](https://img.shields.io/badge/Expert-7%2F39-f85149?style=for-the-badge)](#-level-progress)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-Oct%2126%202026-0891b2?style=for-the-badge)](#-solved-labs)
 
-**[🌐 Portfolio](https://awel-abduljelil.netlify.app/) · [💻 GitHub](https://github.com/Awel-Abduljelil) · [✍️ Writeups on Medium](https://medium.com/@awela1499) · [📡 Telegram](https://t.me/Awexaa)**
+**[🌐 Portfolio](https://awel-abduljelil.netlify.app/) · [💻 GitHub](https://github.com/Awel-Abduljelil) · [✍️ Writeups on Medium](https://medium.com/@awela1499) · [📡 Telegram](https://t[...]
 
 </div>
 
@@ -18,11 +18,11 @@
 
 ## `//` about
 
-This repo documents my hands-on progress through **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** — the same curriculum used by working AppSec engineers and pentesters to sharpen real-world exploitation skills.
+This repo documents my hands-on progress through **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** — the same curriculum used by working AppSec engineers and pentesters to[...]
 
-Every lab here was solved manually using **Burp Suite**, browser dev tools, and an HTTP proxy — no walkthroughs copy-pasted, no shortcuts. The goal is to build the same instincts a professional penetration tester uses during assessments.
+Every lab here was solved manually using **Burp Suite**, browser dev tools, and an HTTP proxy — no walkthroughs copy-pasted, no shortcuts. The goal is to build the same instincts a professional pene[...]
 
-This journey feeds directly into my [portfolio](https://awel-abduljelil.github.io/My-Portfolio/) and CTF work — think of this repo as the lab notebook behind the "Penetration Tester" title on that profile.
+This journey feeds directly into my [portfolio](https://awel-abduljelil.github.io/My-Portfolio/) and CTF work — think of this repo as the lab notebook behind the "Penetration Tester" title on that p[...]
 
 ---
 
@@ -109,7 +109,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 7 | 2026-06-11 |   SSRF | SSRF with blacklist-based input filter | Practitioner | N/A |
 | 8 | 2026-06-11 |   SSRF | SSRF with filter bypass via open redirection vulnerability | Practitioner | N/A |
 | 9 | 2026-06-11 |   SSRF | Blind SSRF with out-of-band detection | Practitioner | N/A |
-| 10 | 2026-06-12 | Authentication | Username enumeration via different responses | Apprentice | [writeup](https://medium.com/@awela1499/username-enumeration-via-different-responses-portswigger-lab-17f768468f17?source=collection_category---) |
+| 10 | 2026-06-12 | Authentication | Username enumeration via different responses | Apprentice | [writeup](https://medium.com/@awela1499/username-enumeration-via-different-responses-portswigger-lab-17[...]) |
 | 11 | 2026-06-12 | Authentication | Username enumeration via subtly different responses | Practitioner | N/A |
 | 12 | 2026-06-12 | Authentication | Username enumeration via response timing | Practitioner | N/A |
 | 13 | 2026-06-12 | Authentication | Broken brute-force protection, IP block | Practitioner | N/A |
@@ -175,10 +175,6 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 73 | 2026-08-04 | CSRF | CSRF where token validation depends on token being present  | Practitioner | N/A |
 | 74 | 2026-08-05 | CSRF | CSRF where token is not tied to user session PRACTITIONER | Practitioner | N/A |
 | 75 | 2026-08-06 |   WebSockets vulnerabilities |Manipulating WebSocket messages to exploit vulnerabilities| APPRENTICE  | N/A |
-| 76 | 2026-08-07 |   GraphQL API vulnerabilities |Accessing private GraphQL posts | APPRENTICE  | N/A |
-| 77 | 2026-08-07 |   GraphQL API vulnerabilities |Accidental exposure of private GraphQL fields | PRACTITIONER  | N/A |
-| 78 | 2026-08-08 |   GraphQL API vulnerabilities |Finding a hidden GraphQL endpoint| PRACTITIONER  | N/A |
-| 79 | 2026-08-08 |   GraphQL API vulnerabilities |Bypassing GraphQL brute force protections  | PRACTITIONER  | N/A |
 | 80 | 2026-09-10 |   CSRF | CSRF where token is tied to non-session cookie  | PRACTITIONER  | N/A |
 | 81 | 2026-09-10 |   CSRF | CSRF where token is duplicated in cookie | PRACTITIONER  | N/A |
 | 82 | 2026-09-13 |   CSRF | SameSite Lax bypass via method override| PRACTITIONER  | N/A |
@@ -247,8 +243,9 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 145 | 2026-10-28 | Cross-site scripting | Reflected XSS in a JavaScript URL with some characters blocked | Expert | N/A |
 | 146 | 2026-10-28 | Cross-site scripting | Reflected XSS protected by very strict CSP, with dangling markup attack | Practitioner | N/A |
 | 147 | 2026-10-28 | Cross-site scripting | Reflected XSS protected by CSP, with CSP bypass | Expert | N/A |
-| 148 | 2026-10-28 | SQL injection | SQL injection attack, querying the database type and version on MySQL and Microsoft | Practitioner | N/A |
-| 149 | 2026-10-28 | SQL injection | SQL injection attack, listing the database contents on Oracle | Practitioner | N/A |
+| 150 | 2026-10-28 | JWT | JWT authentication bypass via unverified signature | Apprentice | N/A |
+| 151 | 2026-10-28 | JWT | JWT authentication bypass via flawed signature verification | Apprentice | N/A |
+| 152 | 2026-10-28 | GraphQL API vulnerabilities | Performing CSRF exploits over GraphQL | Practitioner | N/A |
 
 ## `//` what's next
 
