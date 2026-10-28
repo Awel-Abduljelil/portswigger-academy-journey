@@ -204,6 +204,8 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 102 | 2026-10-28 | Access control | Insecure direct object references | Apprentice | N/A |
 | 103 | 2026-10-28 | Access control | URL-based access control can be circumvented | Practitioner | N/A |
 | 104 | 2026-10-28 | Access control | Method-based access control can be circumvented | Practitioner | N/A |
+| 105 | 2026-10-28 | Authentication | Username enumeration via account lock | Practitioner | N/A |
+| 106 | 2026-10-28 | Authentication | Broken brute-force protection, multiple credentials per request | Expert | N/A |
 
 ## `//` what's next
 
