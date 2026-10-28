@@ -18,11 +18,11 @@
 
 ## `//` about
 
-This repo documents my hands-on progress through **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** — the same curriculum used by working AppSec engineers and pentesters to learn real exploitation techniques, not just theory.
+This repo documents my hands-on progress through **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** — the same curriculum used by working AppSec engineers and pentesters to sharpen real-world exploitation skills.
 
-Every lab here was solved manually using **Burp Suite**, browser dev tools, and an HTTP proxy — no walkthroughs copy-pasted, no shortcuts. The goal is to build the same instincts a professional penetration tester relies on: read the app, form a hypothesis, test it, break it.
+Every lab here was solved manually using **Burp Suite**, browser dev tools, and an HTTP proxy — no walkthroughs copy-pasted, no shortcuts. The goal is to build the same instincts a professional penetration tester uses during assessments.
 
-This journey feeds directly into my [portfolio](https://awel-abduljelil.github.io/My-Portfolio/) and CTF work — think of this repo as the lab notebook behind the "Penetration Tester" title on that site.
+This journey feeds directly into my [portfolio](https://awel-abduljelil.github.io/My-Portfolio/) and CTF work — think of this repo as the lab notebook behind the "Penetration Tester" title on that profile.
 
 ---
 
@@ -109,7 +109,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 7 | 2026-06-11 |   SSRF | SSRF with blacklist-based input filter | Practitioner | N/A |
 | 8 | 2026-06-11 |   SSRF | SSRF with filter bypass via open redirection vulnerability | Practitioner | N/A |
 | 9 | 2026-06-11 |   SSRF | Blind SSRF with out-of-band detection | Practitioner | N/A |
-| 10 | 2026-06-12 | Authentication | Username enumeration via different responses | Apprentice | [writeup](https://medium.com/@awela1499/username-enumeration-via-different-responses-portswigger-lab-17dd6255e1bb) |
+| 10 | 2026-06-12 | Authentication | Username enumeration via different responses | Apprentice | [writeup](https://medium.com/@awela1499/username-enumeration-via-different-responses-portswigger-lab-17f768468f17?source=collection_category---) |
 | 11 | 2026-06-12 | Authentication | Username enumeration via subtly different responses | Practitioner | N/A |
 | 12 | 2026-06-12 | Authentication | Username enumeration via response timing | Practitioner | N/A |
 | 13 | 2026-06-12 | Authentication | Broken brute-force protection, IP block | Practitioner | N/A |
@@ -199,7 +199,11 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.github.i
 | 97 | 2026-10-25 |   Race Condition |Exploiting time-sensitive vulnerabilities |  PRACTITIONER  | N/A |
 | 98 | 2026-10-25 | OS Command injection |Blind OS command injection with out-of-band interaction | Practitioner | N/A |
 | 99 | 2026-10-25 | OS Command injection |Blind OS command injection with out-of-band data exfiltration | Practitioner | N/A |
-
+| 100 | 2026-10-28 | Access control | User role can be modified in user profile | Apprentice | N/A |
+| 101 | 2026-10-28 | Access control | User ID controlled by request parameter with data leakage in redirect | Apprentice | N/A |
+| 102 | 2026-10-28 | Access control | Insecure direct object references | Apprentice | N/A |
+| 103 | 2026-10-28 | Access control | URL-based access control can be circumvented | Practitioner | N/A |
+| 104 | 2026-10-28 | Access control | Method-based access control can be circumvented | Practitioner | N/A |
 
 ## `//` what's next
 
