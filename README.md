@@ -41,7 +41,7 @@ This journey feeds directly into my [portfolio](https://awel-abduljelil.netlify.
 | Category | Solved / Total | Status |
 |---|---:|---|
 | SQL injection | 18 / 18 | ✅ Complete |
-| Cross-site scripting (XSS) | 18 / 18 | ✅ Complete |
+| Cross-site scripting (XSS) | 30 / 30 | ✅ Complete |
 | Cross-site request forgery (CSRF) | 11 / 11 | ✅ Complete |
 | Clickjacking | 5 / 5 | ✅ Complete |
 | DOM-based vulnerabilities | 7 / 7 | ✅ Complete |
